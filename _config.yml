@@ -56,8 +56,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -82,10 +80,8 @@ analytics:
 author:
   name             : "Shengyuan Hu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
   location         : "Ithaca, NY"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "sh797@cornell.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,20 +92,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github.com/s-huu"
+  github           : "s-huu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
