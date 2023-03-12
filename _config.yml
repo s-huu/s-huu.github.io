@@ -80,10 +80,10 @@ analytics:
 author:
   name             : "Shengyuan Hu"
   avatar           : "s-huu.png"
-  location         : "Ithaca, NY"
+  location         : "Pittsburgh, PA"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "sh797@cornell.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=m_ZHHToAAAAJ&hl=en"
+  email            : "shengyuanhu@amu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
