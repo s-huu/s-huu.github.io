@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in Machine Learning Department at Carnegie Mellon University. Previously, I did my BA at Cornell University double major in Computer Science and Mathematics where I worked with [Kilian Q. Weinberger](https://www.cs.cornell.edu/~kilian/). My research focus on robust machine learning models and secure and privacy perserving machine learning algorithms. Topics I'm interested in particular are federated learning, privacy preserving machine learning, differential privacy, adversarial robustness, etc
+I am currently a third-year PhD student in Machine Learning Department at Carnegie Mellon University advised by [Virginia Smith](https://www.cs.cmu.edu/~smithv/). Prior to that, I did my BA at Cornell University double major in Computer Science and Mathematics. 
+
+My research interest lies in differential privacy, robustness, algorithmic fairness, and in particular, their applications in building trustworthy federated learning methods. My works focus on studying analytical formulations and efficient methods that provide both theoretical guarantees and strong empirical performance on real world applications to handle these issues in federated learning.
