@@ -2,21 +2,21 @@ main:
   - title: "About Me"
     url: /
 
-  - title: "Publications"
-    url: /publications/
+#   - title: "Publications"
+#     url: /publications/
   #
   # - title: "Talks"
   #   url: /talks/
   #
   
-  - title: "Research"
-    url: /portfolio/
+#   - title: "Research"
+#     url: /portfolio/
 
-  - title: "Teaching"
-    url: /teaching/
+#   - title: "Teaching"
+#     url: /teaching/
   
-  - title: "Intern"
-    url: /year-archive/
+#   - title: "Intern"
+#     url: /year-archive/
 
-  - title: "CV"
-    url: /cv/
+#   - title: "CV"
+#     url: /cv/
