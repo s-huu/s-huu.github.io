@@ -63,3 +63,12 @@ Tian Li, **Shengyuan Hu**, Ahmad Beirami, Virginia Smith\
 Joshua Garcia, Joshua Garcia, LiPing Wei, Liang Cheng, **Shengyuan Hu**, Jed Sparks, James Giovannoni, Jenny Kao-Kniffin\
 **Nature Communications Biology**\
 [\[PDF\]](https://www.nature.com/articles/s42003-022-03860-5)
+
+## Professional Service
+- Reviewer for [ICML (2021-2023)](https://icml.cc/)
+- Reviewer for [ICLR (2021-2023)](https://iclr.cc/)
+- Reviewer For [NeurIPS (2021-2022)](https://neurips.cc/)
+- Reviewer for [TMLR](https://jmlr.org/tmlr/)
+- PC Member for [NeurIPS 2022 Workshop on Trustworthy and Socially Responsible Machine Learning (TSRML)](https://tsrml2022.github.io/)
+- PC Member for [FL4NLP@ACL 2022 Workshop](https://fl4nlp.github.io/)
+- Reviewer for [IEEE Network Magazine](https://www.comsoc.org/publications/magazines/ieee-network)
