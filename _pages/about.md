@@ -72,3 +72,17 @@ Joshua Garcia, Joshua Garcia, LiPing Wei, Liang Cheng, **Shengyuan Hu**, Jed Spa
 - PC Member for [NeurIPS 2022 Workshop on Trustworthy and Socially Responsible Machine Learning (TSRML)](https://tsrml2022.github.io/)
 - PC Member for [FL4NLP@ACL 2022 Workshop](https://fl4nlp.github.io/)
 - Reviewer for [IEEE Network Magazine](https://www.comsoc.org/publications/magazines/ieee-network)
+
+## Industrial Experience
+
+Research Intern (2021)\
+[Meta Platform, Inc.](https://about.meta.com/)\
+Pittsburgh PA (Remote)
+
+Research Enigneer Intern (2019)\
+[Uber Technologies, Inc.](https://www.uber.com/)\
+Pittsburgh, PA
+
+Software Engineer Intern (2018)\
+[MasterClass](https://www.masterclass.com/)\
+San Francisco, CA
