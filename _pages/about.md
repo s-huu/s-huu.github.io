@@ -86,3 +86,12 @@ Pittsburgh, PA
 Software Engineer Intern (2018)\
 [MasterClass](https://www.masterclass.com/)\
 San Francisco, CA
+
+## Teaching Experience
+
+I have served as a Teaching Assistant at Cornell and CMU for the following courses:
+- 10-714 Deep Learning System (CMU, 2022)
+- 10-605 ML with Large Datasets (CMU, 2021)
+- CS 4780 Intrdocution To Machine Learning (Cornell, 2019)
+- CS 4820 Introduction to Analysis of Algorithms (Cornell, 2017-2018)
+- CS 2800 Discrete Structures (Cornell, 2017)
