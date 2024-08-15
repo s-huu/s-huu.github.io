@@ -14,9 +14,9 @@ My research interest broadly lies in LLM alignment, machine unlearning, differen
 
 
 
-## Research
+# Research
 
-### Safety in LLM
+## Safety in LLM
 
 [Jogging the Memory of Unlearned Model Through Targeted Relearning Attack](https://arxiv.org/abs/2406.13356)\
 **Shengyuan Hu**, Yiwei Fu, Zhiwei Steven Wu, Virginia Smith\
@@ -33,7 +33,7 @@ Qi Pang, **Shengyuan Hu**, Wenting Zheng, Virginia Smith\
 Preprint\
 [\[PDF\]](https://arxiv.org/pdf/2402.16187.pdf)
 
-### Privacy
+## Privacy
 
 [Privacy Amplification for the Gaussian Mechanism via Bounded Support](https://arxiv.org/abs/2403.05598)\
 **Shengyuan Hu**, Saeed Mahloujifar, Virginia Smith, Kamalika Chaudhuri, Chuan Gup\
@@ -51,7 +51,7 @@ Ziyu Liu, **Shengyuan Hu**, Steven Wu, Virginia Smith\
 [\[PDF\]](https://arxiv.org/pdf/2108.12978.pdf)
 
 
-### Trustworthy Federated Learning
+## Trustworthy Federated Learning
 
 [Fair Federated Learning via Bounded Group Loss](https://arxiv.org/abs/2203.10190)\
 **Shengyuan Hu**, Steven Wu, Virginia Smith\
@@ -75,21 +75,21 @@ Tian Li, **Shengyuan Hu**, Ahmad Beirami, Virginia Smith\
 **Best Paper Award at ICLR 2021 Secure ML Workshop**\
 [\[PDF\]](http://proceedings.mlr.press/v139/li21h/li21h.pdf) [\[Code(TensorFlow)\]](https://github.com/litian96/ditto) [\[Code(PyTorch)\]](https://github.com/s-huu/Ditto)
 
-### Adversarial Robustness
+## Adversarial Robustness
 
 [A New Defense Against Adversarial Images: Turning a Weakness into a Strength](https://proceedings.neurips.cc/paper/2019/hash/cbb6a3b884f4f88b3a8e3d44c636cbd8-Abstract.html)\
 **Shengyuan Hu\***, Tao Yu\*, Chuan Guo, Wei-Lun Chao, Kilian Q. Weinberger\
 **NeurIPS 2020**\
 [\[PDF\]](https://proceedings.neurips.cc/paper/2019/file/cbb6a3b884f4f88b3a8e3d44c636cbd8-Paper.pdf) [\[Code\]](https://github.com/s-huu/TurningWeaknessIntoStrength)
 
-### Others
+## Others
 
 [Selection pressure on the rhizosphere microbiome can alter nitrogen use efficiency and seed yield in Brassica rapa](https://www.nature.com/articles/s42003-022-03860-5)\
 Joshua Garcia, Joshua Garcia, LiPing Wei, Liang Cheng, **Shengyuan Hu**, Jed Sparks, James Giovannoni, Jenny Kao-Kniffin\
 **Nature Communications Biology**\
 [\[PDF\]](https://www.nature.com/articles/s42003-022-03860-5)
 
-## Professional Service
+# Professional Service
 - Reviewer for [ICML (2021-2024)](https://icml.cc/)
 - Reviewer for [ICLR (2021-2024)](https://iclr.cc/)
 - Reviewer For [NeurIPS (2021-2024)](https://neurips.cc/)
@@ -98,7 +98,7 @@ Joshua Garcia, Joshua Garcia, LiPing Wei, Liang Cheng, **Shengyuan Hu**, Jed Spa
 - PC Member for [FL4NLP@ACL 2022 Workshop](https://fl4nlp.github.io/)
 - Reviewer for [IEEE Network Magazine](https://www.comsoc.org/publications/magazines/ieee-network)
 
-## Industrial Experience
+# Industrial Experience
 
 Research Intern (2023)\
 [FAIR](https://about.meta.com/)\
@@ -116,7 +116,7 @@ Software Engineer Intern (2018)\
 [MasterClass](https://www.masterclass.com/)\
 San Francisco, CA
 
-## Teaching Experience
+# Teaching Experience
 
 I have served as a Teaching Assistant at Cornell and CMU for the following courses:
 - 10-714 Deep Learning System (CMU, 2022)
