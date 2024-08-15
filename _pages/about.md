@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year PhD student in [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University advised by [Virginia Smith](https://www.cs.cmu.edu/~smithv/). Prior to that, I did my BA at Cornell University double major in Computer Science and Mathematics. 
+I am currently a fifth-year PhD student in [Machine Learning Department](https://www.ml.cmu.edu/) at Carnegie Mellon University advised by [Virginia Smith](https://www.cs.cmu.edu/~smithv/). Prior to that, I did my BA at Cornell University double major in Computer Science and Mathematics. 
 
 My research interest lies in differential privacy, robustness, algorithmic fairness, and in particular, their applications in building trustworthy federated learning methods. My works focus on studying analytical formulations and efficient methods that provide both theoretical guarantees and strong empirical performance on real world applications to handle these issues in federated learning.
 
@@ -16,7 +16,48 @@ My research interest lies in differential privacy, robustness, algorithmic fairn
 
 ## Research
 
+### Safety in LLM
+
+[Jogging the Memory of Unlearned Model Through Targeted Relearning Attack](https://arxiv.org/abs/2406.13356)\
+**Shengyuan Hu**, Yiwei Fu, Zhiwei Steven Wu, Virginia Smith\
+Preprint\
+[\[PDF\]](https://arxiv.org/pdf/2406.13356.pdf)
+
+[Guardrail Baselines for Unlearning in LLMs](https://arxiv.org/abs/2403.03329)\
+Pratiksha Thaker, Yash Maurya, **Shengyuan Hu**, Zhiwei Steven Wu, Virginia Smith\
+Preprint\
+[\[PDF\]](https://arxiv.org/pdf/2403.03329.pdf)
+
+[No Free Lunch in LLM Watermarking: Trade-offs in Watermarking Design Choices](https://arxiv.org/abs/2402.16187)\
+Qi Pang, **Shengyuan Hu**, Wenting Zheng, Virginia Smith\
+Preprint\
+[\[PDF\]](https://arxiv.org/pdf/2402.16187.pdf)
+
+### Privacy
+
+[Privacy Amplification for the Gaussian Mechanism via Bounded Support](https://arxiv.org/abs/2403.05598)\
+**Shengyuan Hu**, Saeed Mahloujifar, Virginia Smith, Kamalika Chaudhuri, Chuan Gup\
+**Preprint**\
+[\[PDF\]](https://arxiv.org/abs/2403.05598.pdf) 
+
+[On Privacy and Personalization in Cross-Silo Federated Learning](https://arxiv.org/abs/2206.07902)\
+Ziyu Liu, **Shengyuan Hu**, Steven Wu, Virginia Smith\
+**NeurIPS 2022**\
+[\[PDF\]](https://arxiv.org/pdf/2206.07902.pdf) [\[Code\]](https://github.com/kenziyuliu/private-cross-silo-fl)
+
+[Private Multi-Task Learning: Formulation and Applications to Federated Learning](https://arxiv.org/abs/2108.12978)\
+**Shengyuan Hu**, Steven Wu, Virginia Smith\
+**TMLR**\
+[\[PDF\]](https://arxiv.org/pdf/2108.12978.pdf)
+
+
 ### Trustworthy Federated Learning
+
+[Fair Federated Learning via Bounded Group Loss](https://arxiv.org/abs/2203.10190)\
+**Shengyuan Hu**, Steven Wu, Virginia Smith\
+**SaTML 2023**\
+**Best Paper Award at ICLR 2022 Workshop on Socially Responsible Machine Learning (SRML)**\
+[\[PDF\]](https://arxiv.org/pdf/2203.10190.pdf) 
 
 [Federated Learning as Network Effect Game](https://arxiv.org/abs/2302.08533)\
 Dung Daniel Ngo, **Shengyuan Hu**, Shuran Zheng, Virginia Smith, Steven Wu\
@@ -27,22 +68,6 @@ Preprint\
 **Shengyuan Hu**, Jack Goetz, Kshitiz Malik, Hongyuan Zhan, Zhe Liu, Yue Liu\
 **Presented at FL-NeurIPS'22 Workshop**\
 [\[PDF\]](https://arxiv.org/pdf/2204.01273.pdf)
-
-[On Privacy and Personalization in Cross-Silo Federated Learning](https://arxiv.org/abs/2206.07902)\
-Ziyu Liu, **Shengyuan Hu**, Steven Wu, Virginia Smith\
-**NeurIPS 2022**\
-[\[PDF\]](https://arxiv.org/pdf/2206.07902.pdf) [\[Code\]](https://github.com/kenziyuliu/private-cross-silo-fl)
-
-[Fair Federated Learning via Bounded Group Loss](https://arxiv.org/abs/2203.10190)\
-**Shengyuan Hu**, Steven Wu, Virginia Smith\
-Preprint\
-**Best Paper Award at ICLR 2022 Workshop on Socially Responsible Machine Learning (SRML)**\
-[\[PDF\]](https://arxiv.org/pdf/2203.10190.pdf) 
-
-[Private Multi-Task Learning: Formulation and Applications to Federated Learning](https://arxiv.org/abs/2108.12978)\
-**Shengyuan Hu**, Steven Wu, Virginia Smith\
-Preprint\
-[\[PDF\]](https://arxiv.org/pdf/2108.12978.pdf)
 
 [Ditto: Fair and Robust Federated Learning Through Personalization](https://proceedings.mlr.press/v139/li21h.html)\
 Tian Li, **Shengyuan Hu**, Ahmad Beirami, Virginia Smith\
@@ -65,15 +90,19 @@ Joshua Garcia, Joshua Garcia, LiPing Wei, Liang Cheng, **Shengyuan Hu**, Jed Spa
 [\[PDF\]](https://www.nature.com/articles/s42003-022-03860-5)
 
 ## Professional Service
-- Reviewer for [ICML (2021-2023)](https://icml.cc/)
-- Reviewer for [ICLR (2021-2023)](https://iclr.cc/)
-- Reviewer For [NeurIPS (2021-2022)](https://neurips.cc/)
+- Reviewer for [ICML (2021-2024)](https://icml.cc/)
+- Reviewer for [ICLR (2021-2024)](https://iclr.cc/)
+- Reviewer For [NeurIPS (2021-2024)](https://neurips.cc/)
 - Reviewer for [TMLR](https://jmlr.org/tmlr/)
 - PC Member for [NeurIPS 2022 Workshop on Trustworthy and Socially Responsible Machine Learning (TSRML)](https://tsrml2022.github.io/)
 - PC Member for [FL4NLP@ACL 2022 Workshop](https://fl4nlp.github.io/)
 - Reviewer for [IEEE Network Magazine](https://www.comsoc.org/publications/magazines/ieee-network)
 
 ## Industrial Experience
+
+Research Intern (2023)\
+[FAIR](https://about.meta.com/)\
+San Francisco SF
 
 Research Intern (2021)\
 [Meta Platform, Inc.](https://about.meta.com/)\
