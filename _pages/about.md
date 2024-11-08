@@ -18,6 +18,11 @@ My research interest broadly lies in LLM alignment, machine unlearning, differen
 
 ## Safety in LLM
 
+[Position: LLM Unlearning Benchmarks are Weak Measures of Progress](https://arxiv.org/abs/2410.02879)\
+Pratiksha Thaker, **Shengyuan Hu**, Neil Kale, Yash Maurya, Zhiwei Steven Wu, Virginia Smith\
+Preprint\
+[\[PDF\]](https://arxiv.org/pdf/2410.02879)
+
 [Jogging the Memory of Unlearned Model Through Targeted Relearning Attack](https://arxiv.org/abs/2406.13356)\
 **Shengyuan Hu**, Yiwei Fu, Zhiwei Steven Wu, Virginia Smith\
 Preprint\
@@ -30,8 +35,8 @@ Preprint\
 
 [No Free Lunch in LLM Watermarking: Trade-offs in Watermarking Design Choices](https://arxiv.org/abs/2402.16187)\
 Qi Pang, **Shengyuan Hu**, Wenting Zheng, Virginia Smith\
-Preprint\
-[\[PDF\]](https://arxiv.org/pdf/2402.16187.pdf)
+**NeurIPS 2024**\
+[\[PDF\]](https://arxiv.org/pdf/2402.16187.pdf)[\[Blog post\]](https://blog.ml.cmu.edu/2024/09/27/no-free-lunch-in-llm-watermarking-trade-offs-in-watermarking-design-choices/)
 
 ## Privacy
 
